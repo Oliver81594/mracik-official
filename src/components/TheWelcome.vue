@@ -23,7 +23,7 @@ export default {
       error: null,
       items: null,
       collection: "Items",
-      api_url: "http://127.0.0.1:5000",
+      api_url: "",
       name: "",
       lang: "",
       category: "",
